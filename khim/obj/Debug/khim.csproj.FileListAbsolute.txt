@@ -1,0 +1,7 @@
+C:\Users\NITRO 5\source\repos\khim\khim\bin\Debug\khim.exe.config
+C:\Users\NITRO 5\source\repos\khim\khim\bin\Debug\khim.exe
+C:\Users\NITRO 5\source\repos\khim\khim\bin\Debug\khim.pdb
+C:\Users\NITRO 5\source\repos\khim\khim\obj\Debug\khim.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\source\repos\khim\khim\obj\Debug\khim.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\source\repos\khim\khim\obj\Debug\khim.exe
+C:\Users\NITRO 5\source\repos\khim\khim\obj\Debug\khim.pdb
